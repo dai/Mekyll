@@ -2,7 +2,7 @@ title: E3 (Ekoda Enlightened ERAs)
 email: 
 description: >
   Mekyll - Medium-style theme for Jekyll を使用
-baseurl: "https://daisuke.co/" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://daisuke.co" # the base hostname & protocol for your site
 postCount: 5 # the number of posts on the "index" page
 
