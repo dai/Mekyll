@@ -7,7 +7,7 @@ url: "https://daisuke.co" # the base hostname & protocol for your site
 postCount: 5 # the number of posts on the "index" page
 
 # Build settings
-markdown: redcarpet
+markdown: 
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 permalink   : /:year/:title/
 source: ./
